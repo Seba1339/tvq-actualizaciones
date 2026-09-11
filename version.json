@@ -1,7 +1,6 @@
 {
-  "version": "20260916m",
+  "version": "20260917i",
   "fecha": "2026-09-11",
-  "notas": "Version de prueba (v6): chequeo de actualizacion con diagnostico",
-  "apk_url": "https://github.com/Seba1339/tvq-actualizaciones/releases/latest/download/TVQ_DEV.apk",
-  "apk_version": "7.33"
+  "notas": "Ver como solo para admin, subida de fotos corregida, version en sidebar",
+  "apk_url": "https://oonvhuamrvjypikxutuh.supabase.co/storage/v1/object/public/apk/TVQ_Registro.apk"
 }

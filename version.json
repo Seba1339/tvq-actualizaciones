@@ -1,7 +1,7 @@
 {
-  "version": "20260916j",
+  "version": "20260916m",
   "fecha": "2026-09-11",
-  "notas": "Version nueva de prueba: mejora del aviso de actualizacion",
+  "notas": "Version de prueba (v6): chequeo de actualizacion con diagnostico",
   "apk_url": "https://github.com/Seba1339/tvq-actualizaciones/releases/latest/download/TVQ_DEV.apk",
-  "apk_version": "7.32"
+  "apk_version": "7.33"
 }
